@@ -13,7 +13,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=3900&pause=4000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Just+a+regular+Computer+Science+student." alt="Typing SVG">
   </a>
 </p>
-
 <details>
   <summary><samp><b>About me</b></samp></summary>
   <br>
@@ -30,7 +29,7 @@
   <br>
   <h3 align="center">Connect</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/fauzan-devinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-devinto" height="30" width="40" /></a>
     <a href="https://instagram.com/znxdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="znxdev" height="30" width="40" />
+    <a href=https://www.linkedin.com/in/fauzan-devinto-5a42931a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-devinto" height="30" width="40" /></a>
   </p>
 </details>
